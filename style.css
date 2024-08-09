@@ -1,0 +1,21 @@
+body {background-color: lightgray;
+    text-align: left;
+    letter-spacing: 50;
+    font: 300;
+}
+
+img {
+  border-radius: 100%;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-block-end: 50px;
+  width: 232px;
+  height: 228px;
+}
+desc {
+    font-size: 14px;
+    margin-left: 65%;
+    margin-right: 65%;
+    color: black
+}
+
